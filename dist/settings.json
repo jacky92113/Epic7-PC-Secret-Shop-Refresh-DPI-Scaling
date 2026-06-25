@@ -1,0 +1,23 @@
+{
+  "language": "zh-hk",
+  "window": "1507566: 第七史詩",
+  "threshold": "0.75",
+  "auto_count": "",
+  "covenant_target": "10",
+  "mystic_target": "",
+  "friendship_target": "",
+  "current_gold": "",
+  "current_skystone": "",
+  "template_selections": [
+    true,
+    true,
+    false
+  ],
+  "statistics": {
+    "skystones_consumed": 0,
+    "covenant_bookmarks": 0,
+    "mystic_bookmarks": 0,
+    "friendship_bookmarks": 0,
+    "gold_consumed": 0
+  }
+}
